@@ -9,15 +9,15 @@
 
 - 💬 Ask me about **C,C++,JAVA,JavaScript,MySql,DBMS**
 
-- 📫 How to reach me **gauravnehra4321@gmail.com**
+- 📫 How to reach me **gauravnehra98178@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TqXdCho1U53aacPTIbaEWqfpRa07Dj5k/view?usp=sharing](https://drive.google.com/file/d/1TqXdCho1U53aacPTIbaEWqfpRa07Dj5k/view?usp=sharing)
+- 📄 Know about my experiences [https://portfolio-by-gaurav-nehra.netlify.app/](https://portfolio-by-gaurav-nehra.netlify.app/)
 
 - ⚡ Fun fact **I am Foddie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gauravnehra-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gauravnehra-" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gauravnehra-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gauravnehra-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
